@@ -80,7 +80,7 @@ Output variable (based on sensory data):
 
 # Watch the Video
 
-[YouTube Video](https://youtu.be/tawXPaBndiY)
+* [YouTube Video](https://youtu.be/tawXPaBndiY)
 
 # Links
 * [Presentation Video](https://youtu.be/tawXPaBndiY)
