@@ -80,7 +80,7 @@ Output variable (based on sensory data):
 
 # Watch the Video
 
-[!][https://www.devicedaily.com/wp-content/uploads/2015/10/youtube-logo-1920-520x293.jpg](https://youtu.be/tawXPaBndiY)
+[YouTube Video](https://youtu.be/tawXPaBndiY)
 
 # Links
 * [Presentation Video](https://youtu.be/tawXPaBndiY)
